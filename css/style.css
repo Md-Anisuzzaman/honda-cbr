@@ -1,0 +1,32 @@
+/* .banner-color{
+    background-color:rgb(42, 94, 119)
+}  */
+
+.nav-text-color{
+    color: gainsboro;
+}
+
+.filter-image{
+    filter: grayscale(100);
+}
+
+h5{
+  color:#252B42;
+
+} 
+
+.navbar-light .navbar-nav .nav-link {
+     color: #f8f9fa;
+}
+
+.embed-responsive-item{
+
+    min-height: 460px;
+    border-radius: 20px;
+
+}
+
+/* .faq-img{
+  width: 430px;
+  margin-top: 15px;
+} */
